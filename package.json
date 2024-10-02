@@ -1,7 +1,7 @@
 {
   "name": "my-website",
   "version": "0.0.0",
-  "homepage": "https://sholomellenbogentamaki.github.io/Tamaki-MES-Docs_test.github.io/",
+  "homepage": "https://sholomellenbogentamaki.github.io/TamakiMESDocs",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",

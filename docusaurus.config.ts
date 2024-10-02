@@ -9,10 +9,10 @@ const config: Config = {
   // themes: ['@docusaurus/theme-search-algolia'],
 
   // Set the production url of your site here
-  url: 'https://sholomellenbogentamaki.github.io/Tamaki-MES-Docs_test.github.io/',
+  url: 'https://sholomellenbogentamaki.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/TamakiMESDocs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
