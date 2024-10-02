@@ -1,7 +1,7 @@
 {
     "index_name": "dev_TAMAKI_MES",
     "sitemap_urls": [
-      "http://192.168.2.114:3000/sitemap.xml"
+      "https://sholomellenbogentamaki.github.io/Tamaki-MES-Docs_test.github.io/sitemap.xml"
     ],
     "sitemap_alternate_links": true,
     "stop_urls": [],
